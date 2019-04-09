@@ -1,5 +1,5 @@
-# MyProfile
-IIT Assignment 1
+# TeamProfile
+IIT Assignment 2
 
 References
 
